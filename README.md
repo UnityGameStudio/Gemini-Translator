@@ -26,7 +26,7 @@ Once the dependencies are set up, **open** the example scene inside the package.
 
 You activate the function by pressing the space bar and releasing it. Then, Unity processes the audio through Speech-To-Text. Later, Gemini translates the sentences to the desired language. And finally, Unity process the audio through a Text-To-Speech. Both services of audio processing are done through Google Cloud Services. Therefore, you will need certain API keys from [Google Cloud](https://console.cloud.google.com/apis/).
 
-You also need an API key from [Google AI Studio](https://aistudio.google.com/).
+You also need an API key from [Google AI Studio](https://aistudio.google.com/apikey).
 
 # Setup
 
