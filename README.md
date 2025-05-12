@@ -1,5 +1,4 @@
 # Gemini-Translator
-# Gemini Unity Google Cloud Package
 
 A Unity plugin that integrates **Gemini** with **Google Cloud Services** (Text-to-Speech and Speech-to-Text). This plugin enables the creation of a translator that can respond to user voice inputs, and transform them into a desired language. Ideal for traveling.
 
