@@ -30,7 +30,7 @@ You also need an API key from [Google AI Studio](https://aistudio.google.com/api
 
 # Setup
 
-Here's a quick guide to setting up the latest release (V1.0): [Watch the YouTube tutorial](https://www.youtube.com/watch?v=pDq-xrZ5Yg8&feature=youtu.be)
+Here's a quick guide to setting up the latest release: [Watch the YouTube tutorial](https://www.youtube.com/watch?v=MYUxPMOZRcU&ab_channel=UnityGameStudio)
 
 ### Work in Progress ⚙️
 
